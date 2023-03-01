@@ -15,3 +15,6 @@ https://ssl-config.mozilla.org/#server=nginx&version=1.17.7&config=intermediate&
 
 # SSL test to check the security level
 https://www.ssllabs.com/ssltest/
+
+# open SSL with apache
+https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04
